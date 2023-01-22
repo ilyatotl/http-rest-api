@@ -1,3 +1,4 @@
 bind_addr = ":8080"
 log_level = "debug"
 database_url = "user=ilya password=111111 host=localhost dbname=restapi_database sslmode=disable"
+session_key = "hfAJP-mSnZeoq?xluNv0Ma5gE.Ki1GcQC693ry2k4YOUFDt7R8Isj!T_HVBbdX,p"
